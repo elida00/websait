@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(103, 228, 228);
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rgb(103, 228,228 );
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+}
+
+.content{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    height: 800px;
+    max-width: 1200px;
+    font-size: 24px;
+    margin: 0 auto;
+}
+
+.hr{
+    color:  rgb(103, 228,228 );
+    max-width: 1200px;
+}
+.two{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+.pik{
+    width: 500px;
+    height: 400px;
+}
+.hr{
+    color:  rgb(103, 228,228 );
+}
+.four{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    height: 800px;
+    max-width: 1200px;
+    font-size: 24px;
+    margin: 0 auto;
+}
+.fife{
+    color: fuchsia;
+}
+hr{
+    color: rgb(103, 228, 228);
+}
+.item{
+    width: 700px;
+    height: 60px;
+    border: 2px solid;
+    display: flex;
+    background-color: rgb(249, 230, 209);
+    
+}
+.seven{
+    color: rgb(255, 0, 0);
+}
+.nine{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    height: 700px;
+    max-width: 1200px;
+    font-size: 24px;
+    margin: 0 auto;
+}
+.ten{
+    color: rgb(255, 0, 0);
+}
+hr{
+    color: rgb(255, 255, 255);
+}
+.eleven{
+    color: rgb(255, 0, 0);
+}
+.icons{
+    color: black;
+}
+.fifeteen{
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    left: 30px;
+    font-size: 20px;
+}
+.apple{
+    color: rgb(255, 0, 0);
+}
+.icons{
+    color: black;
+    text-align: center;
+}
